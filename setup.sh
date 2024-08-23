@@ -7,5 +7,5 @@ pip install pywal
 echo "feh --bg-scale /home/vawmpira/Pictures/winter.png" > ~/.fehbg
 chmod +x .fehbg
 
-cp -r .config ~/
+cp -r config/* ~/.config
 cp -r wallpapers ~/Pictures

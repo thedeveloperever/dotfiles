@@ -6,7 +6,7 @@ sudo pacman -S python python-pip ttf-liberation
 pip install pywal
 
 echo "feh --bg-scale ~/Pictures/wallpapers/winter.png" > ~/.fehbg
-chmod +x .fehbg
+chmod +x ~/.fehbg
 
 cp -r config/* ~/.config
 cp -r wallpapers ~/Pictures

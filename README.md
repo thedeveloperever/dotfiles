@@ -18,7 +18,7 @@ This is a fork of Sifsen's Dotfiles, with some patches and fixes to the original
 To use these dotfiles, clone the repository and run the setup script:
 
 ```sh
-git clone https://github.com/sifsen/dotfiles.git
+git clone https://github.com/thedeveloperever/dotfiles.git
 cd dotfiles
 chmod +x setup.sh
 ./setup.sh
